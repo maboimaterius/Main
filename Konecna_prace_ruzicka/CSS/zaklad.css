@@ -1,0 +1,102 @@
+ body
+ {
+	background-image: url(../obrazky/pozadi.jpg);
+	background-repeat: no-repeat;
+	background-position: sticky;
+	background-width:100%;
+	background-size: cover;
+}
+h1
+{
+	text-align:center;
+	color: #000;
+	background-color: #00dd00
+}
+p
+{
+	margin-top: 5%;
+	margin-left: 2%;
+}
+h2
+{
+	text-align: center;
+	font-size: 200%;
+}
+h3
+{
+
+	text-align:center;
+	color: #000;
+	background-color: #00dd00;
+	margin-top: 5%;
+	font-size: 200%;
+}
+th
+{
+	border:4px solid #fff;
+	text-align: center;
+	font-size: 175%;
+}
+td
+{
+	border:2px solid #000;
+	font-size: 150%;
+}
+table
+{
+	text-align: center;
+}
+.logo
+{
+	width: 7%;
+}
+.nadpis
+{
+	font-family: fantasy;
+	color: white;
+	text-align: center;
+	font-size: 500%;
+}
+.podnadpis
+{
+	color:white;
+	text-align: center;
+	vertical-align: center;
+	font-size: 250%;
+	margin-top: 5%;
+}
+.pozadi
+{
+	background-color: lime;
+	width: 800px;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+}
+.obrvtxtl
+{
+	width: 30%;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+}
+.obrvtxtp
+{
+	width: 30%;
+	margin-top: 2%;
+	margin-right: 2%;
+	float: right;
+}
+
+.tabulka
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.tabule
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+}
